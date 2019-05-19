@@ -1,5 +1,7 @@
 # adopt-pets
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ddc2f049-fc97-4f1d-9a62-b1e8701c459c/deploy-status)](https://app.netlify.com/sites/jovial-colden-d4d9a4/deploys)
+
 ## Project setup
 ```
 npm install
